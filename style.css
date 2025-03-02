@@ -10,6 +10,8 @@ body{
 }
 
 .clock-container{
+    border-style: dotted;
+    border-color: chocolate;
     text-align: center;
     font-size: 3rem;
     background: 255, 255, 255, 0.5;
